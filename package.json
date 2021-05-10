@@ -15,7 +15,7 @@
     "firebase": "^5.7.2",
     "galio-framework": "^0.5.3",
     "iap-receipt-validator": "^1.0.6",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "mobx": "^3.4.1",
     "mobx-react": "^4.3.5",
     "moment": "^2.24.0",
